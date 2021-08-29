@@ -97,7 +97,7 @@ I am working hard on continuously developing and maintaining Ackee. Please consi
 - [ackee_dart](https://github.com/marchellodev/ackee_dart) - Ackee plugin for Dart/Flutter ([pub.dev](https://pub.dev/packages/ackee_dart))
 
 
-### Links
+### The Links
 
 - [Follow Ackee on Twitter](https://twitter.com/getackee)
 - [Vote for Ackee on ProductHunt](https://www.producthunt.com/posts/ackee)
